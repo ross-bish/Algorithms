@@ -28,3 +28,6 @@ The ubiquitous nature of algorithms and their influence on modern life should be
 ## Check out this video for more examples of algorithms! 📺
 
 [The Secret Rules of Modern Living Algorithms - Documentary.](https://www.youtube.com/watch?v=kiFfp-HAu64)
+
+## 💡Note: 
+Thanks to the PDST LCCS Teacher Manual for the invaluable help in making this!
