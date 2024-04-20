@@ -29,5 +29,5 @@ The ubiquitous nature of algorithms and their influence on modern life should be
 
 [The Secret Rules of Modern Living Algorithms - Documentary.](https://www.youtube.com/watch?v=kiFfp-HAu64)
 
-## 💡Note: 
+## 📖 References: 
 Thanks to the PDST LCCS Teacher Manual for the invaluable help in making this!
