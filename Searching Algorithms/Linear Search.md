@@ -39,3 +39,52 @@ In the example above, when the target value is not found in the list, the algori
 
 For example, if the algorithm was applied to find the number ``22`` in the above list the result will be ``8`` _(because the length of this list is 8)._
 
+![image](https://github.com/ross-bish/Algorithms/assets/83789503/76e9aca7-dfc6-4954-a01c-46a19a1a910f)
+
+### Advantages and disadvantages of the Linear Search algorithms: 📝
+
+**Advantages**
+1. Simplicity - The linear search is intuitive to most. It is relatively easy to understand and implement.
+2. It does not require the data to be stored in any particular order.
+ 
+**Disadvantage**
+
+1. The main disadvantage of the linear search algorithm lies in its _**lack of efficiency.**_
+   
+The more elements there are in a list the greater the amount of time it will take to search for any specific element. 
+
+In fact, the amount of time it takes to find a target value increases in proportion to the number of elements in the list to search. Therefore, it will take **ten times longer** to find an element in a list of **1,000 elements** than it would for a list of **100 elements**. 
+
+This is called _**linear time complexity**_, or **``O(n)``** for short.
+
+
+## Challenge ⚔️
+Linear search is a simple search algorithm that checks every element in a list until the target element is found or the end of the list is reached.
+
+In linear search, we iterate through each element of the list until we find the target element or reach the end of the list. 
+
+It has a time complexity of ``O(n)``, where ``n`` is the number of elements in the list.
+
+### Part A
+Create a function `def linear_search () ` that will find the target number shown in the sample code below:
+
+````python
+numbers = [1, 2, 4, 5, 7, 9]
+target = 7
+````
+
+### Part B
+Return a display to the console confirming if the target number has been found in the list.
+
+````python
+print(f"Element {target} found at index {result}.")
+````
+
+### Part C
+Change the value of `target` so it is not an element of the list.
+
+Now, edit your program to return a display to the console confirming the target number has **not** been found in the list.
+
+````python
+print(f"Element {target} not found in the list.")
+````
