@@ -23,3 +23,8 @@ The list is endless!
 There are algorithms to recommend our next purchases, the next book to read, the next song to listen to, the next YouTube video to watch – algorithms to maintain playlists, find the perfect partner, schedule our busy lives, pay for and deliver our shopping and so on ad infinitum.
 
 The ubiquitous nature of algorithms and their influence on modern life should be patently clear. And for this reason alone the benefits of having a general understanding of the way they operate should also be clear. Simply put, life can be made easier when one has some level of understanding about the algorithms that are used to drive and support it.
+
+
+## Check out this video for more examples of algorithms! 📺
+
+https://www.youtube.com/watch?v=kiFfp-HAu64
