@@ -1,4 +1,4 @@
-# Linear & Binary Search 📚
+# Linear Search 📚
 
 ## Linear Search
 Let’s say we were asked the question: does the list below contain the number `14`? Without thinking twice, most of us would scan down through the list until we arrive at the number `14`. 
